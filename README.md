@@ -56,15 +56,15 @@ Sou Gabriel Dias, entusiasta da tecnologia com sólida formação prática em de
 
 ### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=git,github,figma,windows,linux,vscode,powershell)](https://github.com/ogabrieldias)
+[![Development Tools](https://skillicons.dev/icons?i=git,github,figma,windows,linux,vscode,powershell,npm,node)](https://github.com/ogabrieldias)
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=python,django,typescript)](https://github.com/ogabrieldias)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=python)](https://github.com/ogabrieldias)
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://github.com/ogabrieldias)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://github.com/ogabrieldias)
 
 ### Database
 
