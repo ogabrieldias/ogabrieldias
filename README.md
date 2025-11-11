@@ -24,7 +24,7 @@ Sou Gabriel Dias, entusiasta da tecnologia com sólida formação prática em de
 
 ### Quick Facts
 
-- 🎓 Mais de 25 cursos e bootcamps concluídos nas áreas de tecnologia, programação e redes.
+- 🎓 Mais de 33 cursos e bootcamps concluídos nas áreas de tecnologia, programação e redes.
 - 💻 Experiência com HTML5, CSS3, JavaScript, Python e MySQL.
 - 🧠 Conhecimento em Redes de Computadores e Segurança da Informação.
 - 🛠️ Habilidade com Git e GitHub para versionamento de código.
