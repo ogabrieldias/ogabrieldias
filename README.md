@@ -46,7 +46,6 @@ Sou Gabriel Dias, entusiasta da tecnologia com sólida formação prática em de
 
 <a href="https://github.com/ogabrieldias">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogabrieldias&theme=transparent&bg_color=000&border_color=DFBD69&show_icons=true&icon_color=FFF&title_color=DFBD69&text_color=DFBD69&hide_title=true&hide=stars">  
-    <img src="https://streak-stats.demolab.com/?user=ogabrieldias&theme=maroongold&background=000&border=DFBD69&dates=FFF">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrieldias&layout=compact&langs_count=6&background=000&border=DFBD69&dates=FFF&bg_color=000&border_color=DFBD69&show_icons=true&title_color=DFBD69&text_color=DFBD69&hide_title=true"/>
 </a>
 
