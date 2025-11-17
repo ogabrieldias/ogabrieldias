@@ -37,9 +37,9 @@ Sou Gabriel Dias, entusiasta da tecnologia com sólida formação prática em de
 ### Connect with me
 
 <a href = "mailto:gabrieldias.portfolio@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-<a href = "https://www.instagram.com/_dias_gabriel__/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
+<a href = "https://www.instagram.com/_ogabrieldias/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ogabrieldias/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-<a href="https://ogabrieldias.github.io/myportfolio/"><img src="https://img.shields.io/badge/Portfolio-67cb57?style=for-the-badge&logo=todoist&logoColor=white"></a>
+<a href="https://ogabrieldias.github.io/portfolio-v1/"><img src="https://img.shields.io/badge/Portfolio-67cb57?style=for-the-badge&logo=todoist&logoColor=white"></a>
 ---
 
 ## ⭐️ &nbsp;Estatísticas do GitHub
